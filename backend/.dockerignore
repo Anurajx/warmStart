@@ -1,0 +1,11 @@
+.git
+tests
+__pycache__
+*.pyc
+.env
+.env.local
+Dockerfile
+README.md
+requirements-dev.txt
+.venv
+.venv*
